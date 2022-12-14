@@ -1,0 +1,15 @@
+C:\Users\Елизавета\source\repos\проводник3\проводник3\bin\Debug\net6.0\проводник3.exe
+C:\Users\Елизавета\source\repos\проводник3\проводник3\bin\Debug\net6.0\проводник3.deps.json
+C:\Users\Елизавета\source\repos\проводник3\проводник3\bin\Debug\net6.0\проводник3.runtimeconfig.json
+C:\Users\Елизавета\source\repos\проводник3\проводник3\bin\Debug\net6.0\проводник3.dll
+C:\Users\Елизавета\source\repos\проводник3\проводник3\bin\Debug\net6.0\проводник3.pdb
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.csproj.AssemblyReference.cache
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.AssemblyInfoInputs.cache
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.AssemblyInfo.cs
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.dll
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\refint\проводник3.dll
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.pdb
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\проводник3.genruntimeconfig.cache
+C:\Users\Елизавета\source\repos\проводник3\проводник3\obj\Debug\net6.0\ref\проводник3.dll
